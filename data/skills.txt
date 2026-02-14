@@ -1,0 +1,12 @@
+python
+java
+sql
+html
+css
+javascript
+react
+node.javascript
+machine learning
+aws
+docker
+git
