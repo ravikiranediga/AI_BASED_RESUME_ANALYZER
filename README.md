@@ -42,28 +42,6 @@ This project demonstrates how AI can streamline recruitment by reducing manual e
 
 ---
 
-## 📂 Project Structure
-AI_Resume_Analyzer/
-│
-├── data/
-│   ├── resumes/              # Sample resumes
-│   ├── job_descriptions/     # Sample job descriptions
-│
-├── src/
-│   ├── resume_parser.py      # Resume text extraction
-│   ├── skill_extractor.py    # Skill identification logic
-│   ├── matcher.py            # Resume vs JD matching
-│   ├── scoring.py            # Relevance scoring
-│
-├── models/
-│   └── skill_model.pkl       # Trained NLP / ML model
-│
-├── notebooks/
-│   └── analysis.ipynb        # Experiments & testing
-│
-├── requirements.txt
-├── README.md
-└── main.py                   # Application entry point
 
 ⚙️ How It Works (Pipeline)
 
