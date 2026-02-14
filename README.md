@@ -79,17 +79,6 @@ Recruitment Platforms
 
 Career Guidance Tools
 
-Internship / Academic Projects
-
-📈 Why This Is a Strong Resume Project
-
-✔ Real-world HR Tech use case
-✔ Demonstrates NLP + ML integration
-✔ Shows production-level project structure
-✔ ATS & recruiter-friendly
-✔ Scalable to web or enterprise systems
-
-👉 Yes, this qualifies as a MAJOR PROJECT and is highly suitable for resumes and internships.
 
 🧪 Installation & Setup
 1️⃣ Clone the Repository
