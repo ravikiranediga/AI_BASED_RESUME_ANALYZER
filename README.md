@@ -115,8 +115,10 @@ Internship / Academic Projects
 
 🧪 Installation & Setup
 1️⃣ Clone the Repository
+
 git clone https://github.com/your-username/AI_Resume_Analyzer.git
 cd AI_Resume_Analyzer
+
  
 3️⃣ Install Dependencies
 pip install -r requirements.txt
@@ -128,6 +130,9 @@ python main.py
 
 Ravikiran
 Aspiring Data Scientist | Machine Learning Engineer
+
 📧 Email: www.sreenivasul@gmail.com
+
 🔗 GitHub:https://github.com/ravikiranediga
+
 🔗 LinkedIn:https://linkedin.com/in/ravikiranediga
